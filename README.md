@@ -4,12 +4,12 @@
 A project to help get started quickly when learning a new framework/techonology or doing any practice coding in javascript. 
 
 ### Dependencies:
-[npm watch - Run scripts from package.json when files change.](https://www.npmjs.com/package/npm-watch)
-[mocha - A javascript Test framework.](https://www.npmjs.com/package/mocha)
-[chai - an assertion library](https://www.npmjs.com/package/chai)
-[babel core](https://www.npmjs.com/package/babel-core)
-[babel cli](https://www.npmjs.com/package/babel-cli)
-[The ES 2015 preset for babel](https://www.npmjs.com/package/babel-preset-es2015)
+- [**npm watch** - Run scripts from package.json when files change.](https://www.npmjs.com/package/npm-watch)
+- [**mocha** - A javascript Test framework.](https://www.npmjs.com/package/mocha)
+- [**chai** - an assertion library](https://www.npmjs.com/package/chai)
+- [**babel core** - Javascript Compiler/Transpiler](https://www.npmjs.com/package/babel-core)
+- [**babel cli** - CLI for babel](https://www.npmjs.com/package/babel-cli)
+- [**babel es2015** - The ES 2015 preset for babel](https://www.npmjs.com/package/babel-preset-es2015)
 
 ### What's in it
 The project has a test and the project structure used by a number of projects.
